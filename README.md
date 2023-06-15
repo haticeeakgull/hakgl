@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakgl
-- 👀 I’m interested in ML and AI.
-- 🌱 I’m currently learning Python and English.
+- 👀 I’m interested in ML , AI , game development.
+- 🌱 I’m currently learning Python , C# , unity and English.
 
 
 <!---
