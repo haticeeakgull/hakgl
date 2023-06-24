@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hakgl
+- 👋 Hi, I’m hatice
 - 👀 I’m interested in ML , AI , game development.
 - 🌱 I’m currently learning Python , C# , unity and English.
 
